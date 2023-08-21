@@ -1,0 +1,8 @@
+D:\simplylearnPhase-2\Day-7\day7ass7\day7ass7\bin\Debug\day7ass7.exe.config
+D:\simplylearnPhase-2\Day-7\day7ass7\day7ass7\bin\Debug\day7ass7.exe
+D:\simplylearnPhase-2\Day-7\day7ass7\day7ass7\bin\Debug\day7ass7.pdb
+D:\simplylearnPhase-2\Day-7\day7ass7\day7ass7\obj\Debug\day7ass7.csproj.AssemblyReference.cache
+D:\simplylearnPhase-2\Day-7\day7ass7\day7ass7\obj\Debug\day7ass7.csproj.SuggestedBindingRedirects.cache
+D:\simplylearnPhase-2\Day-7\day7ass7\day7ass7\obj\Debug\day7ass7.csproj.CoreCompileInputs.cache
+D:\simplylearnPhase-2\Day-7\day7ass7\day7ass7\obj\Debug\day7ass7.exe
+D:\simplylearnPhase-2\Day-7\day7ass7\day7ass7\obj\Debug\day7ass7.pdb
